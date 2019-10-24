@@ -2,12 +2,9 @@
   "name": "opengml-atom",
   "main": "./lib/opengml-atom",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "GML  support for Atom",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "opengml-atom:toggle"
-  },
   "repository": "https://github.com/atom/opengml-atom",
   "license": "MIT",
   "engines": {
