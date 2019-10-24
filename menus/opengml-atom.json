@@ -1,25 +1,12 @@
 {
   "context-menu": {
     "atom-text-editor": [
-      {
-        "label": "Toggle opengml-atom",
-        "command": "opengml-atom:toggle"
-      }
     ]
   },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
-        {
-          "label": "opengml-atom",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "opengml-atom:toggle"
-            }
-          ]
-        }
       ]
     }
   ]

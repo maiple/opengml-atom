@@ -3,13 +3,13 @@
   "main": "./lib/opengml-atom",
   "version": "0.0.0",
   "description": "GML  support for Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/atom/opengml-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "xml2js": ">=0.4.0"
   }
 }
